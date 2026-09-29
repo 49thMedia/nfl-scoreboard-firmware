@@ -1,5 +1,13 @@
 # NFL_Scoreboard changelog
 
+## v1.1.0 (2026-09-28)
+Over-the-air updates are now live. The scoreboard checks
+https://raw.githubusercontent.com/49thMedia/nfl-scoreboard-firmware/main/latest.json for new versions, and the firmware
+files are hosted at github.com/49thMedia/nfl-scoreboard-firmware. v1.0.0 was the first published release: a board needs
+one USB flash of v1.0.0 or later, and any board already running v1.0.0 will pick this up over Wi-Fi. The Settings page
+shows the version and "Up to date", or "Update available" with a tap-to-install button. Tick "Install updates
+automatically" on the setup page to have them install themselves between 2 and 4 AM, never during a game.
+
 ## v1.0.0 (2026-09-28)
 First release. Cloned from NAHL_Scoreboard v2.0.0 (same CYD hardware, architecture and touch UX), rebuilt for the NFL.
 
