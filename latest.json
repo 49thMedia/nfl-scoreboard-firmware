@@ -1,0 +1,9 @@
+{
+  "product": "nfl-scoreboard",
+  "version": "1.0.0",
+  "url": "https://github.com/49thMedia/nfl-scoreboard-firmware/releases/download/v1.0.0/nfl-scoreboard-v1.0.0.bin",
+  "size": 1371552,
+  "sha256": "767ae83c7768b01733147aee7e40c8b4ff11ef4d6a7189cfc376fcdc2edfd6c0",
+  "notes": "First release: live NFL scoreboard, standings, schedule, league, news",
+  "min_version": "1.0.0"
+}
